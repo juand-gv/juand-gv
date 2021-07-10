@@ -1,4 +1,4 @@
-- 👋 Hellow there, I'm **@Mmorbid-face**
+# 👋 Hellow there, I'm **@Mmorbid-face**
 - 🔭 I’m currently working on becoming a **Data Scientist**
 - 🌱 I’m currently learning **Machine Learning**, **Data Science** and **Advanced Python**
 - 📫 How to reach me: &nbsp;<img width="20" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png">&nbsp;<a href="https://twitter.com/MorbidFace" target="_blank">Twitter</a>
