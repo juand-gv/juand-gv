@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hello, Welcome to my Profile! :computer:
+<img align="left" alt="morbid-face GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=morbid-face&include_all_commits=true">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morbid-face&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
