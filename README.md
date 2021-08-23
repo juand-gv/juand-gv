@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 # MY STATS :computer:
-<img align="left" alt="morbid-face GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=morbid-face&include_all_commits=true">
+<img align="left" alt="morbid-face GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=morbid-face&include_all_commits=true&show_icons=true&theme=tokyonight">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morbid-face&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morbid-face&langs_count=8&theme=tokyonight)](https://github.com/morbid-face/github-readme-stats)
+
