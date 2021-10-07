@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm **@morbid-face**
+# 👋 Hello there, I'm **@juand-gv**
 - 🔭 Working on becoming a **Data Scientist**
 - 🌱 I’m currently learning **Advanced Python**, **SQL**, **Machine Learning** and **Azure Services**
 - 📫 How to reach me: &nbsp;<img width="20" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png">&nbsp;<a href="https://twitter.com/MorbidFace" target="_blank">Twitter</a>
