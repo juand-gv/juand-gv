@@ -4,7 +4,7 @@
 - 📫 How to reach me: &nbsp;<img width="20" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png">&nbsp;<a href="https://twitter.com/MorbidFace" target="_blank">Twitter</a>
 
 <!--
-**morbid-face/morbid-face** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**juand-gv/juand-gv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
