@@ -1,26 +1,135 @@
-# 👋 Hello there, I'm **@juand-gv**
-- 🔭 Working on becoming a great **Data Engineer**
-- 🌱 I’m currently learning **Advanced Python**, **Advanced SQL**, **MLOps**, **Azure**, **GCP** and **AWS**
-- 📫 How to reach me: &nbsp;<img width="20" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png">&nbsp;<a href="https://twitter.com/MorbidFace" target="_blank">Twitter</a>
+# 🚀 @juand-gv - Data Engineer & Security Enthusiast
 
-<!--
-**juand-gv/juand-gv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+GCP+Specialist;DataOps+%26+IaC+Enthusiast;Agent+Development+%7C+Red+Team+Learner;Building+the+future+with+data+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🎯 About Me
 
-# MY STATS :computer:
-<img align="left" alt="juand-gv GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juand-gv&include_all_commits=true&show_icons=true&theme=tokyonight">
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "@juand-gv"
+        self.role = "Data Engineer"
+        self.location = "Colombia 🇨🇴"
+        self.current_focus = ["GCP", "IaC", "DataOps", "Agent Development"]
+        self.learning = ["CyberSecurity", "Red Team Operations"]
+        self.passion = "Transforming data into insights & securing digital landscapes"
+    
+    def get_skills(self):
+        return {
+            "cloud": ["Google Cloud Platform", "Cloud Run", "Cloud Functions", "App Engine"],
+            "data": ["BigQuery", "Dataform", "DataStream", "Looker", "Apache Beam"],
+            "languages": ["Python", "SQL", "Bash"],
+            "iac": ["Terraform", "Cloud Deployment Manager"],
+            "cicd": ["Cloud Build", "GitHub Actions", "Jenkins"],
+            "security": ["Penetration Testing", "OSINT", "GEOINT" "Network Security"],
+            "devops": ["Docker", "Kubernetes", "GitOps", "Monitoring"]
+        }
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juand-gv&langs_count=8&theme=tokyonight)](https://github.com/juand-gv/github-readme-stats)
+## 🛠️ Tech Stack
 
+<div align="center">
+
+### ☁️ Google Cloud Platform
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![App Engine](https://img.shields.io/badge/App_Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 📊 Data Engineering & Analytics
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Dataform](https://img.shields.io/badge/Dataform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DataStream](https://img.shields.io/badge/DataStream-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/Apache%20Beam-FF6600?style=for-the-badge&logo=apache&logoColor=white)
+
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Cloud Deployment Manager](https://img.shields.io/badge/Cloud_Deployment_Manager-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🚀 CI/CD & DevOps
+![Cloud Build](https://img.shields.io/badge/Cloud_Build-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 💻 Languages & Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🛡️ Security & Red Team
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juand-gv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juand-gv&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juand-gv&theme=tokyonight" alt="juand-gv" />
+</div>
+
+## 🎯 Current Focus
+
+```mermaid
+graph TD
+    A[Data Engineering] --> B[GCP Services]
+    B --> B1[Cloud Run/Functions]
+    B --> B2[BigQuery & Dataform]
+    B --> B3[DataStream & Looker]
+    
+    A --> C[Infrastructure]
+    C --> C1[Terraform IaC]
+    C --> C2[Cloud Build CI/CD]
+    
+    A --> D[Agent Development]
+    
+    F[Cybersecurity] --> G[Red Team Operations]
+    F --> H[Penetration Testing]
+    F --> I[OSINT Techniques]
+    
+    style A fill:#00D9FF,stroke:#333,stroke-width:2px
+    style F fill:#FF6B6B,stroke:#333,stroke-width:2px
+    style B fill:#4285F4,stroke:#333,stroke-width:1px
+    style C fill:#623CE4,stroke:#333,stroke-width:1px
+```
+
+## 🌱 Learning Journey
+
+- 🔴 **Red Team Operations** - Ethical hacking and penetration testing
+- 🛡️ **Advanced Cybersecurity** - Network security and vulnerability assessment
+- 🤖 **AI Agents** - Building intelligent automation systems
+- ☁️ **Advanced GCP** - Professional Cloud Architect certification path
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdgallegov/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgallegovillada@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=juand-gv&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  **✨ "Data is the new oil, but security is the refinery" ✨**
+</div>
