@@ -129,7 +129,15 @@ graph TD
 - 🧠 **LangGraph Patterns** - Building sophisticated agent architectures
 - ☁️ **Advanced GCP** - Professional Cloud Architect certification path
 
+### TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/jgallegovillada.png" alt="Your Image Badge" />
+
+
+
+
 ## 📫 Let's Connect!
+
+
 
 <div align="center">
 
